@@ -7,6 +7,7 @@
       "id": "LeeSin",
       "key": "64",
       "name": "Lee Sin",
+      "supportedSkills": "Q  -  *  -  *  -  *",
       "title": "the Blind Monk",
       "image": {
         "full": "LeeSin.png",
@@ -91,7 +92,7 @@
           "chromas": false
         }
       ],
-      "lore": "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland against any who would dare upset its sacred balance. Enemies who underestimate his meditative demeanor will endure his fabled burning fists and blazing roundhouse kicks.",
+      "lore": " MISC INFO  =>>  ATM, ONLY HAVE Q cast & RECAST!  |  MAYBE WILL UPDATE THIS COOL CHAMP SOON, WHO KNOW'S ?! ♡ ",
       "blurb": "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland...",
       "allytips": [
         "Use Sonic Wave before Dragon's Rage so you can chase the target with Resonating Strike.",
