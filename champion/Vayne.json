@@ -7,6 +7,7 @@
       "id": "Vayne",
       "key": "67",
       "name": "Vayne",
+      "supportedSkills": "Q  -  W  -  E  -  R",
       "title": "the Night Hunter",
       "image": {
         "full": "Vayne.png",
@@ -85,7 +86,7 @@
           "chromas": false
         }
       ],
-      "lore": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts.",
+      "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  –  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^  |  COMPLEX & ADVANCED SCRIPT! ★★★★★",
       "blurb": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when...",
       "allytips": [
         "Tumble has many uses, but it cannot pass over walls.",
