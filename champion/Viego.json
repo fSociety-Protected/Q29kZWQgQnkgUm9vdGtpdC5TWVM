@@ -7,6 +7,7 @@
         "id": "Viego",
         "key": "234",
         "name": "Viego",
+          "supportedSkills": "Q  -  *  -  *  -  R",
         "title": "The Ruined King",
         "image": {
           "full": "Viego.png",
@@ -37,7 +38,7 @@
             "chromas": false
           }
         ],
-        "lore": "Once ruler of a long-lost kingdom, Viego perished over a thousand years ago when his attempt to bring his wife back from the dead triggered the magical catastrophe known as the Ruination. Transformed into a powerful, unliving wraith tortured by an obsessive longing for his centuries-dead queen, Viego now stands as the Ruined King, controlling the deadly Harrowings as he scours Runeterra for anything that might one day restore her, and destroying all in his path as the Black Mist pours endlessly from his cruel, broken heart.",
+        "lore": " MISC INFO  =>>  Q cast  –  R CAST  |  HAVE SOME LOGICS TO USE THE ULTIMATE WITH A DECENT CALCULATIONS AND ROTATIONS COMBOS. ^- ^ ",
         "blurb": "Once ruler of a long-lost kingdom, Viego perished over a thousand years ago when his attempt to bring his wife back from the dead triggered the magical catastrophe known as the Ruination. Transformed into a powerful, unliving wraith tortured by an...",
         "allytips": [],
         "enemytips": [],
