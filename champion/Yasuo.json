@@ -7,6 +7,7 @@
         "id": "Yasuo",
         "key": "157",
         "name": "Yasuo",
+          "supportedSkills": "Q  -  *  -  *  -  *",
         "title": "the Unforgiven",
         "image": {
           "full": "Yasuo.png",
@@ -67,7 +68,7 @@
             "chromas": true
           }
         ],
-        "lore": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self defense. Even after his master's true killer was revealed, Yasuo still could not forgive himself for all he had done, and now wanders his homeland with only the wind to guide his blade.",
+        "lore": " MISC INFO  =>>  ATM, ONLY HAVE Q cast!  |  MAYBE, SOON WILL UPDATE AND IMPROVE YASUO ADDING SOME EXTRA FUNCTIONS & COMBO ROTATIONS, WHO KNOW'S ?! ♡ ",
         "blurb": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self...",
         "allytips": [
           "Dash through a minion to have Sweeping Blade available to chase your opponent should they flee; Dash directly to your opponent to preserve a minion as your escape route.",
