@@ -7,6 +7,7 @@
       "id": "Blitzcrank",
       "key": "53",
       "name": "Blitzcrank",
+      "supportedSkills": "Q  -  *  -  *  -  *",
       "title": "the Great Steam Golem",
       "image": {
         "full": "Blitzcrank.png",
@@ -91,7 +92,7 @@
           "chromas": true
         }
       ],
-      "lore": "Blitzcrank is an enormous, near-indestructible automaton from Zaun, originally built to dispose of hazardous waste. However, he found this primary purpose too restricting, and modified his own form to better serve the fragile people of the Sump. Blitzcrank selflessly uses his strength and durability to protect others, extending a helpful metal fist or burst of energy to subdue any troublemakers.",
+      "lore": "MISC INFO =>> ONLY CAST Q FOR GRAB PEOPLE. ENOUGHT TO WIN!",
       "blurb": "Blitzcrank is an enormous, near-indestructible automaton from Zaun, originally built to dispose of hazardous waste. However, he found this primary purpose too restricting, and modified his own form to better serve the fragile people of the Sump...",
       "allytips": [
         "The 1-2-3 combo of Rocket Grab, Power Fist, and Static Field can devastate an individual opponent.",
