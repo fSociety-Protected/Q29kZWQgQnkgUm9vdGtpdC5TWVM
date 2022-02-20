@@ -7,7 +7,7 @@
       "id": "Yone",
       "key": "777",
       "name": "Yone",
-      "supportedSkills": "Q  -  W  -  E  -  R",
+      "supportedSkills": "Q  —  W  —  E  —  R",
       "title": "the Unforgotten",
       "image": {
         "full": "Yone.png",
@@ -44,7 +44,7 @@
           "chromas": true
         }
       ],
-      "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  –  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^  |  COMPLEX & ADVANCED SCRIPT! ★★★★★",
+      "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  —  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^  |  COMPLEX & ADVANCED SCRIPT! ★★★★★",
       "blurb": "In life, he was Yone—half-brother of Yasuo, and renowned student of his village's sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own...",
       "allytips": [],
       "enemytips": [],

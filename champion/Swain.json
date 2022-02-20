@@ -7,7 +7,7 @@
       "id": "Swain",
       "key": "50",
       "name": "Swain",
-      "supportedSkills": "Q  -  W  -  E  -  *",
+      "supportedSkills": "Q  —  W  —  E  —  ⛌",
       "title": "the Noxian Grand General",
       "image": {
         "full": "Swain.png",
@@ -56,7 +56,7 @@
           "chromas": false
         }
       ],
-      "lore": " MISC INFO  =>>  Q cast  –  W CAST  –  E cast  |  GREAT LOGICS, AND PASSIVE LOGICS TO PREDICT DAMAGE. ",
+      "lore": " MISC INFO  =>>  Q cast  —  W CAST  —  E cast  |  GREAT LOGICS, AND PASSIVE LOGICS TO PREDICT DAMAGE. ",
       "blurb": "Jericho Swain is the visionary ruler of Noxus, an expansionist nation that reveres only strength. Though he was cast down and crippled in the Ionian wars, his left arm severed, he seized control of the empire with ruthless determination… and a new...",
       "allytips": [
         "If you're having trouble rooting an enemy with Nevermove, try throwing it at opponents when they are near their minions so the explosion surprises them.",

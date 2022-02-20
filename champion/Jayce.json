@@ -7,7 +7,7 @@
       "id": "Jayce",
       "key": "126",
       "name": "Jayce",
-      "supportedSkills": "Q  -  *  -  E  -  *",
+      "supportedSkills": "Q  —  ⛌  —  E  —  ⛌",
       "title": "the Defender of Tomorrow",
       "image": {
         "full": "Jayce.png",
@@ -56,7 +56,7 @@
           "chromas": true
         }
       ],
-      "lore": " MISC INFO  =>>  Q cast  –  E CAST  |  BOTH FORMS, RANGED & MELEE WORKS PERFCTLY! ♡ ",
+      "lore": " MISC INFO  =>>  Q cast  —  E CAST  |  BOTH FORMS, RANGED & MELEE WORKS PERFCTLY! ♡ ",
       "blurb": "Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage, and considerable intelligence to protect his...",
       "allytips": [
         "Be sure to switch stances often. It will enhance your attacks and grant you quick bursts of speed.",

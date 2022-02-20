@@ -7,7 +7,7 @@
       "id": "Jhin",
       "key": "202",
       "name": "Jhin",
-      "supportedSkills": "*  -  W  -  *  -  R",
+      "supportedSkills": "⛌  —  W  —  ⛌  —  R",
       "title": "the Virtuoso",
       "image": {
         "full": "Jhin.png",
@@ -56,7 +56,7 @@
           "chromas": false
         }
       ],
-      "lore": " MISC INFO  =>>  W CAST  –  R CAST ( AUTO-SHOOT ) ",
+      "lore": " MISC INFO  =>>  W CAST  —  R CAST ( AUTO-SHOOT ) ",
       "blurb": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin...",
       "allytips": [
         "Deadly Flourish has incredible range. When approaching a fight be sure to look ahead for enemies that could be rooted.",

@@ -7,7 +7,7 @@
       "id": "Talon",
       "key": "91",
       "name": "Talon",
-      "supportedSkills": "Q  -  W  -  *  -  R",
+      "supportedSkills": "Q  —  W  —  ⛌  —  R",
       "title": "the Blade's Shadow",
       "image": {
         "full": "Talon.png",
@@ -62,7 +62,7 @@
           "chromas": true
         }
       ],
-      "lore": " MISC INFO =>> THIS CHAMP ITS SBTW  –  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^  |  COMPLEX & ADVANCED SCRIPT! ★★★★★ ",
+      "lore": " MISC INFO =>> THIS CHAMP ITS SBTW  —  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^  |  COMPLEX & ADVANCED SCRIPT! ★★★★★ ",
       "blurb": "Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive...",
       "allytips": [
         "You can use Assassin's Path to get behind the enemy and set up for Noxian Diplomacy's melee attack.",

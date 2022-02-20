@@ -7,7 +7,7 @@
       "id": "Viktor",
       "key": "112",
       "name": "Viktor",
-      "supportedSkills": "Q  -  W  -  E  -  R",
+      "supportedSkills": "Q  —  W  —  E  —  R",
       "title": "the Machine Herald",
       "image": {
         "full": "Viktor.png",
@@ -50,7 +50,7 @@
           "chromas": false
         }
       ],
-      "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  –  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^  |  COMPLEX & ADVANCED SCRIPT! ★★★★★",
+      "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  —  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^  |  COMPLEX & ADVANCED SCRIPT! ★★★★★",
       "blurb": "The herald of a new age of technology, Viktor has devoted his life to the advancement of humankind. An idealist who seeks to lift the people of Zaun to a new level of understanding, he believes that only by embracing a glorious evolution of technology...",
       "allytips": [
         "Death Ray is a powerful poke and a strong area of denial tool. Use it in combination with Gravity Field to control your enemy's position.",

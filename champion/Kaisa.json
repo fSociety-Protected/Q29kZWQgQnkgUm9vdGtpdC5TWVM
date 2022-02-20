@@ -7,7 +7,7 @@
       "id": "Kaisa",
       "key": "145",
       "name": "Kai'Sa",
-      "supportedSkills": "Q  -  W  -  E  -  *",
+      "supportedSkills": "Q  —  W  —  E  —  ⛌",
       "title": "Daughter of the Void",
       "image": {
         "full": "Kaisa.png",
@@ -56,7 +56,7 @@
           "chromas": false
         }
       ],
-      "lore": " MISC INFO  =>>  Q cast  –  W CAST  –  E cast ",
+      "lore": " MISC INFO  =>>  Q cast  —  W CAST  —  E cast ",
       "blurb": "Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered...",
       "allytips": [
         "Try to catch enemy carries alone to burst them with Icathian Rain.",

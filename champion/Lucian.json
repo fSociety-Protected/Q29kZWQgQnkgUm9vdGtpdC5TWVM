@@ -7,7 +7,7 @@
         "id": "Lucian",
         "key": "236",
         "name": "Lucian",
-          "supportedSkills": "Q  -  W  -  E  -  R",
+          "supportedSkills": "Q  —  W  —  E  —  R",
         "title": "the Purifier",
         "image": {
           "full": "Lucian.png",
@@ -62,7 +62,7 @@
             "chromas": true
           }
         ],
-        "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  –  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^  |  RLLY COMPLEX & ADVANCED SCRIPT, READY TO CARRY OUR TEAM! ★★★★★",
+        "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  —  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^  |  RLLY COMPLEX & ADVANCED SCRIPT, READY TO CARRY OUR TEAM! ★★★★★",
         "blurb": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to...",
         "allytips": [
           "For optimal burst, try to combine Relentless Pursuit into Piercing Light.",

@@ -7,7 +7,7 @@
       "id": "Khazix",
       "key": "121",
       "name": "Kha'Zix",
-      "supportedSkills": "Q  -  W  -  E  -  R",
+      "supportedSkills": "Q  —  W  —  E  —  R",
       "title": "the Voidreaver",
       "image": {
         "full": "Khazix.png",
@@ -56,7 +56,7 @@
           "chromas": true
         }
       ],
-      "lore": " MISC INFO  =>>  Q cast  –  W cast  –  e cast & dodge enemy skills, R have some logics too...  |  Great logics in jungle clear and combos! ^- ^",
+      "lore": " MISC INFO  =>>  Q cast  —  W cast  —  e cast & dodge enemy skills, R have some logics too...  |  Great logics in jungle clear and combos! ^- ^",
       "blurb": "The Void grows, and the Void adapts—in none of its myriad spawn are these truths more apparent than Kha'Zix. Evolution drives the core of this mutating horror, born to survive and to slay the strong. Where it struggles to do so, it grows new, more...",
       "allytips": [
         "Enemies are considered isolated if they have no allies within a short distance. The damage of Taste Their Fear is massively increased against these targets.",

@@ -7,7 +7,7 @@
       "id": "KogMaw",
       "key": "96",
       "name": "Kog'Maw",
-      "supportedSkills": "Q  -  W  -  E  -  R",
+      "supportedSkills": "Q  —  W  —  E  —  R",
       "title": "the Mouth of the Abyss",
       "image": {
         "full": "KogMaw.png",
@@ -86,7 +86,7 @@
           "chromas": false
         }
       ],
-      "lore": " MISC INFO =>> THIS CHAMP ITS SBTW  –  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^ ",
+      "lore": " MISC INFO =>> THIS CHAMP ITS SBTW  —  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^ ",
       "blurb": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog'Maw is an inquisitive yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool on anything within reach to truly understand it...",
       "allytips": [
         "Kog'Maw can outrange most champions with his Bio-Arcane Barrage ability.",

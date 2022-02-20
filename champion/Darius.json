@@ -1,4 +1,4 @@
-—{
+{
   "type": "champion",
   "format": "standAloneComplex",
   "version": "9.24.1",
@@ -74,7 +74,7 @@
           "chromas": true
         }
       ],
-      "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  –  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^",
+      "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  —  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^",
       "blurb": "There is no greater symbol of Noxian might than Darius, the nation's most feared and battle-hardened commander. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire's enemies—many of them Noxians themselves. Knowing that...",
       "allytips": [
         "Decimate is a powerful harassment ability. Strike an enemy from maximum range for the greatest effect.",

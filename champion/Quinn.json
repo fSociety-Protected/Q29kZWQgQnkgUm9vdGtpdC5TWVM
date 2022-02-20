@@ -7,7 +7,7 @@
         "id": "Quinn",
         "key": "133",
         "name": "Quinn",
-          "supportedSkills": "Q  -  *  -  E  -  *",
+          "supportedSkills": "Q  —  ⛌  —  E  —  ⛌",
         "title": "Demacia's Wings",
         "image": {
           "full": "Quinn.png",
@@ -50,7 +50,7 @@
             "chromas": false
           }
         ],
-        "lore": " MISC INFO  =>>  Q cast  –  E CAST  |  HAVE SOME LOGICS TO DODGE/EVADE LETHAL DEFINITIVES LIKE [ RENGAR ULTIMATE & KHA'ZIX JUMPS ] NICE ONE! ",
+        "lore": " MISC INFO  =>>  Q cast  —  E CAST  |  HAVE SOME LOGICS TO DODGE/EVADE LETHAL DEFINITIVES LIKE [ RENGAR ULTIMATE & KHA'ZIX JUMPS ] NICE ONE! ",
         "blurb": "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two...",
         "allytips": [
           "Attacking a ",

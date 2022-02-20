@@ -7,7 +7,7 @@
       "id": "Hecarim",
       "key": "120",
       "name": "Hecarim",
-      "supportedSkills": "Q  -  W  -  E  -  R",
+      "supportedSkills": "Q  —  W  —  E  —  R",
       "title": "the Shadow of War",
       "image": {
         "full": "Hecarim.png",
@@ -74,7 +74,7 @@
           "chromas": true
         }
       ],
-      "lore": " MISC INFO =>> THIS CHAMP ITS SBTW  –  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^ ",
+      "lore": " MISC INFO =>> THIS CHAMP ITS SBTW  —  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^ ",
       "blurb": "Hecarim is a spectral fusion of man and beast, cursed to ride down the souls of the living for all eternity. When the Blessed Isles fell into shadow, this proud knight was obliterated by the destructive energies of the Ruination, along with all his...",
       "allytips": [
         "Spirit of Dread restores Health when nearby enemies take damage, including damage dealt by allies. Cast this during a large fight to maximize Hecarim's survivability.",
