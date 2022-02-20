@@ -7,6 +7,7 @@
       "id": "Kalista",
       "key": "429",
       "name": "Kalista",
+      "supportedSkills": "Q  -  *  -  E  -  *",
       "title": "the Spear of Vengeance",
       "image": {
         "full": "Kalista.png",
@@ -43,7 +44,7 @@
           "chromas": false
         }
       ],
-      "lore": "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing to pay with their very souls. Those who become the focus of Kalista's wrath should make their final peace, for any pact sealed with this grim hunter can only end with the cold, piercing fire of her soul-spears.",
+      "lore": " MISC INFO  =>>  Q cast  –  E CAST  |  VERY ADVANCED PASSIVE LOGICS TO DODGE ENEMY SKILLS! RLLY CLEAN. ^- ^ ",
       "blurb": "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing...",
       "allytips": [
         "Rend is a valuable last hitting aid, since its cooldown resets if it kills a target. ",
