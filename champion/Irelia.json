@@ -7,6 +7,7 @@
       "id": "Irelia",
       "key": "39",
       "name": "Irelia",
+      "supportedSkills": "Q  -  W  -  E  -  R",
       "title": "the Blade Dancer",
       "image": {
         "full": "Irelia.png",
@@ -79,7 +80,7 @@
           "chromas": false
         }
       ],
-      "lore": "The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war, using the graceful and carefully practised movements to levitate a host of deadly blades. After proving herself as a fighter, she was thrust into the role of resistance leader and figurehead, and to this day remains dedicated to the preservation of her homeland.",
+      "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  –  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^",
       "blurb": "The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war, using the graceful and carefully practised movements to levitate a host of...",
       "allytips": [
         "Use Bladesurge to cover great distances by targeting low life minions on your way to champion targets.",
