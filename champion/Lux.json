@@ -7,6 +7,7 @@
       "id": "Lux",
       "key": "99",
       "name": "Lux",
+      "supportedSkills": "Q  -  *  -  *  -  *",
       "title": "the Lady of Luminosity",
       "image": {
         "full": "Lux.png",
@@ -91,7 +92,7 @@
           "chromas": false
         }
       ],
-      "lore": "Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret, in order to preserve her family's noble status. Nonetheless, Lux's optimism and resilience have led her to embrace her unique talents, and she now covertly wields them in service of her homeland.",
+      "lore": " MISC INFO  =>>  ATM, ONLY HAVE Q CAST  |  MAYBE SOO WILL UPDATE & REWORK LUX, WHO KNOW'S ?! ♡ ",
       "blurb": "Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret, in order to preserve...",
       "allytips": [
         "Lux has great zone control abilities. Try to set up Lucent Singularity to prevent an enemy's advance or escape.",
