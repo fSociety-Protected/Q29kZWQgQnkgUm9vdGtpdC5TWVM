@@ -7,6 +7,7 @@
       "id": "Darius",
       "key": "122",
       "name": "Darius",
+      "supportedSkills": "Q  -  W  -  E  -  R",
       "title": "the Hand of Noxus",
       "image": {
         "full": "Darius.png",
@@ -73,7 +74,7 @@
           "chromas": true
         }
       ],
-      "lore": "There is no greater symbol of Noxian might than Darius, the nation's most feared and battle-hardened commander. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire's enemies—many of them Noxians themselves. Knowing that he never doubts his cause is just, and never hesitates once his axe is raised, those who stand against the leader of the Trifarian Legion can expect no mercy.",
+      "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  –  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^",
       "blurb": "There is no greater symbol of Noxian might than Darius, the nation's most feared and battle-hardened commander. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire's enemies—many of them Noxians themselves. Knowing that...",
       "allytips": [
         "Decimate is a powerful harassment ability. Strike an enemy from maximum range for the greatest effect.",
