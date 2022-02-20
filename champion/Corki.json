@@ -7,6 +7,7 @@
       "id": "Corki",
       "key": "42",
       "name": "Corki",
+      "supportedSkills": "Q  -  W  -  E  -  R",
       "title": "the Daring Bombardier",
       "image": {
         "full": "Corki.png",
