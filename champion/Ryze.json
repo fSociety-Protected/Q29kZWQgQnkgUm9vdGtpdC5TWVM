@@ -7,6 +7,7 @@
         "id": "Ryze",
         "key": "13",
         "name": "Ryze",
+          "supportedSkills": "Q  -  W  -  E  -  *",
         "title": "the Rune Mage",
         "image": {
           "full": "Ryze.png",
@@ -91,7 +92,7 @@
             "chromas": true
           }
         ],
-        "lore": "Widely considered one of the most adept sorcerers on Runeterra, Ryze is an ancient, hard-bitten archmage with an impossibly heavy burden to bear. Armed with immense arcane power and a boundless constitution, he tirelessly hunts for World Runes—fragments of the raw magic that once shaped the world from nothingness. He must retrieve these artifacts before they fall into the wrong hands, for Ryze understands the horrors they could unleash on Runeterra.",
+        "lore": "MISC INFO =>> !! CHAMP DISABLED, UNDER REWORK !! | YOU CAN'T USE ATM, SRYY PEOPLE!!  ♡_(^- ^*)",
         "blurb": "Widely considered one of the most adept sorcerers on Runeterra, Ryze is an ancient, hard-bitten archmage with an impossibly heavy burden to bear. Armed with immense arcane power and a boundless constitution, he tirelessly hunts for World Runes—fragments...",
         "allytips": [
           "Use Overload's passive to optimize for maximum damage or maximum speed.",
