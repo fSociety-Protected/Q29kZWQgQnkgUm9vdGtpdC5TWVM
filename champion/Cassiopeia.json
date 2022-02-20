@@ -7,6 +7,7 @@
       "id": "Cassiopeia",
       "key": "69",
       "name": "Cassiopeia",
+      "supportedSkills": "Q  -  W  -  E  -  R",
       "title": "the Serpent's Embrace",
       "image": {
         "full": "Cassiopeia.png",
@@ -55,7 +56,7 @@
           "chromas": false
         }
       ],
-      "lore": "Cassiopeia is a deadly creature bent on manipulating others to her sinister will. Youngest and most beautiful daughter of the noble Du Couteau family of Noxus, she ventured deep into the crypts beneath Shurima in search of ancient power. There, she was bitten by a gruesome tomb guardian, whose venom transformed her into a viper-like predator. Cunning and agile, Cassiopeia now slithers under the veil of night, petrifying her enemies with her baleful gaze.",
+      "lore": "MISC INFO =>> THIS CHAMP ITS SBTW  –  (SPACE BAR TO WIN), JUST PRESS SPACEBAR IN GAME! ^- ^",
       "blurb": "Cassiopeia is a deadly creature bent on manipulating others to her sinister will. Youngest and most beautiful daughter of the noble Du Couteau family of Noxus, she ventured deep into the crypts beneath Shurima in search of ancient power. There, she was...",
       "allytips": [
         "Use Twin Fang on poisoned stationary targets like monsters and units stunned by her Petrifying Gaze for maximum damage.",
