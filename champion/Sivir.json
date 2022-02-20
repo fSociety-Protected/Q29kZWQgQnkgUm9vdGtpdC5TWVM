@@ -7,6 +7,7 @@
       "id": "Sivir",
       "key": "15",
       "name": "Sivir",
+      "supportedSkills": "Q  -  *  -  *  -  *",
       "title": "the Battle Mistress",
       "image": {
         "full": "Sivir.png",
@@ -91,7 +92,7 @@
           "chromas": true
         }
       ],
-      "lore": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her exorbitant price. Known for her fearless resolve and endless ambition, she prides herself on recovering buried treasures from the perilous tombs of Shurima—for a generous bounty. With ancient forces stirring the very bones of Shurima, Sivir finds herself torn between conflicting destinies.",
+      "lore": " MISC INFO  =>>  ATM, ONLY HAVE Q cast!  |  MAYBE, SOON WILL UPDATE MORGANA AND IMPROVE IT, WHO KNOW'S ?! ♡ ",
       "blurb": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her exorbitant price. Known for her...",
       "allytips": [
         "Sivir's Boomerang Blade returns to her after reaching the max range, so you can shift position to hit enemies who would otherwise have evaded it.",
