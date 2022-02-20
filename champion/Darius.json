@@ -1,4 +1,4 @@
-{
+—{
   "type": "champion",
   "format": "standAloneComplex",
   "version": "9.24.1",
@@ -7,7 +7,7 @@
       "id": "Darius",
       "key": "122",
       "name": "Darius",
-      "supportedSkills": "Q  -  W  -  E  -  R",
+      "supportedSkills": "Q  —  W  —  E  —  R",
       "title": "the Hand of Noxus",
       "image": {
         "full": "Darius.png",
