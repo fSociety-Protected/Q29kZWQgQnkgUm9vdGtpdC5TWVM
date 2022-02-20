@@ -7,6 +7,7 @@
         "id": "Soraka",
         "key": "16",
         "name": "Soraka",
+          "supportedSkills": "Q  -  *  -  *  -  *",
         "title": "the Starchild",
         "image": {
           "full": "Soraka.png",
@@ -91,7 +92,7 @@
             "chromas": false
           }
         ],
-        "lore": "A wanderer from the celestial dimensions beyond Mount Targon, Soraka gave up her immortality to protect the mortal races from their own more violent instincts. She endeavors to spread the virtues of compassion and mercy to everyone she meets—even healing those who would wish harm upon her. And, for all Soraka has seen of this world's struggles, she still believes the people of Runeterra have yet to reach their full potential.",
+        "lore": " MISC INFO  =>>  ATM, ONLY HAVE Q cast!  |  MAYBE, SOON WILL UPDATE SORAKA AND ADD SOME EXTRA FUNCTIONS, WHO KNOW'S ?! ♡ ",
         "blurb": "A wanderer from the celestial dimensions beyond Mount Targon, Soraka gave up her immortality to protect the mortal races from their own more violent instincts. She endeavors to spread the virtues of compassion and mercy to everyone she meets—even...",
         "allytips": [
           "Soraka is a powerful ally in battle, using her strong healing to keep the party moving forward.",
