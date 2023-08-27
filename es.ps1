@@ -1,8 +1,8 @@
 [PSCustomObject]@{
     Welcome         = "
-╔══════════════════════════════════════════════════════════════╗
-║ Bienvenido a Spotify Crackeado por Rootkit.SYS para Windows! ║
-╚══════════════════════════════════════════════════════════════╝"
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║ Bienvenido al Instalador de Spotify | Crackeado por Rootkit.SYS para Windows! ║
+╚═══════════════════════════════════════════════════════════════════════════════╝"
     Incorrect       = "Ufff, un valor incorrecto,"
     Incorrect2      = "ingrese nuevamente el valor "
     Download        = "Error al descargar"
