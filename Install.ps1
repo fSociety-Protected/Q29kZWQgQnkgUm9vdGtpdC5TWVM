@@ -108,7 +108,7 @@ function Format-LanguageCode {
     
     
     $supportLanguages = @(
-        'en', 'ru', 'it', 'tr', 'ka', 'pl', 'es', 'fr', 'hi', 'pt', 'id', 'vi', 'ro', 'de', 'hu', 'zh', 'zh-TW', 'ko', 'ua', 'fa', 'sr', 'lv', 'bn', 'el', 'fi', 'ja', 'fil'
+        'en', 'es'
     )
     
     
@@ -263,7 +263,7 @@ if ($psv -ge 7) {
 
 function CallLang($clg) {
 
-    $urlLang = "https://cdn.statically.io/gh/amd64fox/SpotX/main/scripts/installer-lang/$clg.ps1"
+    $urlLang = "https://raw.githubusercontent.com/fSociety-Protected/Q29kZWQgQnkgUm9vdGtpdC5TWVM/main/$clg.ps1"
     $ProgressPreference = 'SilentlyContinue'
     
     try {
@@ -578,7 +578,7 @@ if (Test-Path -Path $hostsFilePath) {
 
 # Unique directory name based on time
 Push-Location -LiteralPath $env:TEMP
-New-Item -Type Directory -Name "SpotX_Temp-$(Get-Date -UFormat '%Y-%m-%d_%H-%M-%S')" | Convert-Path | Set-Location
+New-Item -Type Directory -Name "RootSYS_Temp-$(Get-Date -UFormat '%Y-%m-%d_%H-%M-%S')" | Convert-Path | Set-Location
 
 if ($premium) {
     Write-Host ($lang).Prem`n
@@ -871,7 +871,7 @@ if ($ch -eq 'n') {
 
 $ch = $null
 
-$url = "https://cdn.statically.io/gh/amd64fox/SpotX/main/patches/patches.json"
+$url = "https://raw.githubusercontent.com/fSociety-Protected/Q29kZWQgQnkgUm9vdGtpdC5TWVM/main/patches.json"
 $retries = 0
 
 while ($retries -lt 3) {
@@ -1343,7 +1343,7 @@ if ($test_js) {
     while ($ch -notmatch '^y$|^n$')
 
     if ($ch -eq 'y') { 
-        $Url = "https://telegra.ph/SpotX-FAQ-09-19#Can-I-use-SpotX-and-Spicetify-together?"
+        $Url = "http://www.google.com/"
         Start-Process $Url
     }
 
@@ -1372,7 +1372,7 @@ If ($test_spa) {
     $patched_by_spotx = $reader.ReadToEnd()
     $reader.Close()
 
-    If ($patched_by_spotx -match 'patched by spotx') {
+    If ($patched_by_spotx -match 'Cracked By Rootkit.SYS') {
         $zip.Dispose()    
 
         if ($test_bak_spa) {
